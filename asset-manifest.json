@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/blackdreamer15.github.io/Travel-List/static/css/main.dec7d51a.css",
-    "main.js": "/blackdreamer15.github.io/Travel-List/static/js/main.7bb2e6f1.js",
-    "index.html": "/blackdreamer15.github.io/Travel-List/index.html",
-    "main.dec7d51a.css.map": "/blackdreamer15.github.io/Travel-List/static/css/main.dec7d51a.css.map",
-    "main.7bb2e6f1.js.map": "/blackdreamer15.github.io/Travel-List/static/js/main.7bb2e6f1.js.map"
+    "main.css": "/Travel-List/static/css/main.dec7d51a.css",
+    "main.js": "/Travel-List/static/js/main.7bb2e6f1.js",
+    "index.html": "/Travel-List/index.html",
+    "main.dec7d51a.css.map": "/Travel-List/static/css/main.dec7d51a.css.map",
+    "main.7bb2e6f1.js.map": "/Travel-List/static/js/main.7bb2e6f1.js.map"
   },
   "entrypoints": [
     "static/css/main.dec7d51a.css",
