@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blackdreamer15.github.io/Travel-List/static/css/main.dec7d51a.css",
+    "main.js": "/blackdreamer15.github.io/Travel-List/static/js/main.7bb2e6f1.js",
+    "index.html": "/blackdreamer15.github.io/Travel-List/index.html",
+    "main.dec7d51a.css.map": "/blackdreamer15.github.io/Travel-List/static/css/main.dec7d51a.css.map",
+    "main.7bb2e6f1.js.map": "/blackdreamer15.github.io/Travel-List/static/js/main.7bb2e6f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec7d51a.css",
+    "static/js/main.7bb2e6f1.js"
+  ]
+}
